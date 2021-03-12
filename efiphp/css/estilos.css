@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    background-size: cover;
+}
+
+.logueo{
+    margin-top: 10%;
+    width:max-content;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+.publicaciones{
+    font-family: 'Grandstander', cursive;
+}
+
+.titulos{
+    font-family: 'Anton', sans-serif;
+}
+
+.demas{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #ffffff;
+  }
+
+.logoNavbarConfig{
+    height: 40px;
+    width: 70px;
+}   
+
+.tablaPostConfig{
+    border-radius: 30px;
+    border: 2px solid #ffffff;
+    width: 750px;
+}
+
+.logoFooterAjuste {
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+}
